@@ -29,6 +29,7 @@ Snapshot of the codes used :
 --
 
 5/DOB id=s written in label tag. Input tag is used as type datatime-local to give calender option.
+
 ![image](https://github.com/Av0011/Personal_info_assign2/assets/126654288/0795b262-3a12-454e-9097-01ee8feeba6b)
 --
 
