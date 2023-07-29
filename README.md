@@ -3,6 +3,7 @@
 --
 -- 
 Snap shot of the page
+--
 ![image](https://github.com/Av0011/Personal_info_assign2/assets/126654288/243a3aa5-21f8-46ff-a7ce-50eacc8e4878)
 ![image](https://github.com/Av0011/Personal_info_assign2/assets/126654288/ffef4ef6-4f4f-4580-8641-fc7abab43ab8)
 
